@@ -12,7 +12,9 @@ Testing a bit and a tad more. Testing a bit and a tad more. Testing a bit and a 
 
     $ ls -l
     nothingHERE.txt
- 
+## aDDING THIS FROM GIT
+TEST
+
 ### maybe one image
 trying to insert image.
 
